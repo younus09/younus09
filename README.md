@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @younus09
-- 👀 I’m interested in .....O
-- 🌱 I’m currently learning .....O
+- 👀 I’m interested in Full Stack Web Development, WEB 3 and , AI
+- 🌱 I’m currently learning React, Node , OS, Maths.
 - 💞️ I’m looking to collaborate on .....O
 - 📫 How to reach me ...
 
