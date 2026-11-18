@@ -27,14 +27,7 @@ A web-based code execution platform with support for compiling and running code.
 ### Centralized Exchange
 A backend implementation of a centralized exchange featuring an order matching engine, order management, and balance handling.
 
-### LeetCode Clone
-A coding platform for solving programming problems and submitting solutions.
-
-## Currently Learning
-
-Data Structures and Algorithms, Operating Systems, Database Systems, Computer Networks, and backend architecture.
 
 ## Contact
 
 GitHub: [@younus09](https://github.com/younus09)
-Linkedin : [@younus-usman](www.linkedin.com/in/younus-usman)
